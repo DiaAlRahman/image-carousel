@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.slide {
+  margin-bottom: 4rem;
+}
+
+.nav-dot {
+  padding: 20px;
+}
+
+button {
+  margin: 4rem;
+}
+
+.hide {
+  display: none;
+}
